@@ -1,17 +1,8 @@
-## 📦 What is an Inventory Management System (IMS)?
+## Inventory Management System With Point of Sale (POS) | Offline-First
 
-An **Inventory Management System (IMS)** is a software solution that helps businesses **track, manage, and optimize inventory operations** across the entire supply chain.
+This is dsesktop based application developed using local first approach, this is developed using VueJs web technologies and it uses local first approach to store data locally in sqlite and then sync data with online database when internet is available.
 
-IMS Extreme Admin Template is designed to handle real-world business workflows such as:
-
-- 📊 Stock tracking and availability
-- 🏬 Multi-warehouse inventory control
-- 🧾 Sales & purchase order management
-- 💳 Payments, expenses, and accounting
-- 👥 Customer & supplier management
-- 📈 Reports and analytics for decision-making
-
-### Doc - https://ims.tecbricks.com/
+### Online Demo - https://ims.tecbricks.com/
 
 
 ## 🧩 IMS Core Modules Overview
